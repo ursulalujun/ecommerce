@@ -69,4 +69,10 @@ py manage.py runserver
 
 Notice：
 
-1. 级联删除，user，category是product的外键
+级联删除，user，category是product的外键
+
+参考项目：
+
+https://github.com/veryacademy/django-ecommerce-project
+
+https://github.com/mdn/django-locallibrary-tutorial
